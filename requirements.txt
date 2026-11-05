@@ -1,0 +1,11 @@
+flask
+gunicorn
+pypdf
+pdf2docx
+pdfplumber
+reportlab
+pillow
+python-docx
+openpyxl
+python-pptx
+deep-translator
